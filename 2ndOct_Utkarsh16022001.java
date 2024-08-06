@@ -32,9 +32,4 @@ public class Oct2nd_Utkarsh16022001 {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int num= sc.nextInt();
-        fib(num);
-
-    }
-}
+        Scanner sc = new Scanner(System
