@@ -23,8 +23,3 @@ def Printpattern(Zigzag, a, b):
         for j in range(0, b):
             print(Zigzag[i][j], end=" ")
         print("\a")
-
-
-a, b = list(map(int,input().split()))
-Zigzag = Pattern(a, b)
-Printpattern(Zigzag, a, b)
